@@ -3,10 +3,10 @@
       <div class="desc">
         <h1 class="display-4 text-white">Connect to Create your Artist Account</h1>
         <p class="lead text-white">
-          Enter into the world of artists, where they connect to grow and share their experiences.
+          All Art forms At Single Platform.
         </p>
         <a class="btn btn-lg m-2" href="https://connect.sosrgstudios.com/" role="button"
-          >Open SosrG Connect</a
+          >SosrG Connect</a
         >
       </div>
     </div>
